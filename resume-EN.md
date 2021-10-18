@@ -45,6 +45,8 @@
   <li> Game</li>
   <li> travel </li>
   <li> playing video games</li>
+  <li> Study</li>
+
 </ol>
 
 ### Speaking language
@@ -52,8 +54,6 @@
 ---
 <ol> 
   <li> Persian</li>
-  <li> Turkish</li>
-  <li> Azeri</li>
   <li> English</li>
 </ol>
 
@@ -61,13 +61,8 @@
 
 ---
 <ol>
- <li> Android</li>
- <li> IOS</li>
  <li> Java Script</li>
- <li> C</li>
  <li> C++</li>
- <li> HTML</li>
- <li> CSS</li>
  <li> SQL</li>
 </ol>
 
@@ -75,10 +70,10 @@
 
 ---
 <ol>
-  <li> I am working in Mofid Brokerage </li>
+  <li> I am working in Asiatech Co. </li>
 </ol>
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](qazal.sharifi.1999@gmail.com)
 
 
 --- 
