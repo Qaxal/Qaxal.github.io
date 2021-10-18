@@ -2,16 +2,16 @@
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
-### Mir Mohammad Kamali
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://uupload.ir/files/1d9z_me_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### Qazal Sharifi
+<a href="https://uupload.ir/view/pp_msdh.jpg" target="_blank"><img src="https://s4.uupload.ir/files/pp_msdh_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
 <ol>
-  <li> Name: Mir Mohammad</li>
-  <li> Last name : Kamali</li>
-  <li> Date of birth : 1999/April/10</li>
+  <li> Name: Qazal</li>
+  <li> Last name : Sharifi</li>
+  <li> Date of birth : 1999/June/6</li>
   <li> Martial status : Single</li>
   <li> I am a trader and Computer engineering student</li>
   <li> Location : Tehran , I.R.Iran</li>
@@ -22,27 +22,27 @@
 
 ---
 <ol>
-  <li> trade on Tehran Stock Exchange and Forex</li>
-  <li>Programming</li>
-  <li>playing games on best leagues</li>
+  <li> Design with fabric</li>
+  <li> Network +</li>
+  <li> Cooking</li>
 </ol>
 
 ### Education
 
 ---
 <ol>
-<li> Diploma : Shahid Dr.Chamran school
+<li> Diploma : Fadak school
   _ 2015</li>
 <li> Bachelor of science : computer Engineering
-  _ 2018,payam Noor University of Rey </li>
+  _ 2017,payam Noor University of Rey </li>
 </ol>
 
 ### Favorites
 
 ---
 <ol>
-  <li> Trade</li>
-  <li> ping-pong</li>
+  <li> Mir-mohammad</li>
+  <li> Game</li>
   <li> travel </li>
   <li> playing video games</li>
 </ol>
