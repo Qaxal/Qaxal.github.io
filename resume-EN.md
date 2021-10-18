@@ -13,7 +13,7 @@
   <li> Last name : Sharifi</li>
   <li> Date of birth : 1999/June/6</li>
   <li> Martial status : Single</li>
-  <li> I am a trader and Computer engineering student</li>
+  <li> I am a Computer engineering student</li>
   <li> Location : Tehran , I.R.Iran</li>
 </ol>
 
@@ -41,7 +41,6 @@
 
 ---
 <ol>
-  <li> Mir-mohammad</li>
   <li> Game</li>
   <li> travel </li>
   <li> playing video games</li>
